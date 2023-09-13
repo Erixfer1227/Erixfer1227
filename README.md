@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Statistics and Models**
 
-- 📫 How to reach me **https://www.linkedin.com/in/erickfernandochacon/**
+- 📫 How to reach me **erickchacn@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
