@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, RStudio, PowerBI, Tableau and SQL**
 
-- 👯 I’m looking to collaborate on **Business Solutions with Machine Learning Tools**
+- 👯 I’m looking to collaborate on **Business Solutions with Machine Learning and Business Intelligence Tools**
 
 - 💬 Ask me about **Statistics and Models**
 
