@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Consulting**
 
-- 🌱 I’m currently learning **Python, RStudio and SQL**
+- 🌱 I’m currently learning **Python, RStudio, PowerBI, Tableau and SQL**
 
 - 👯 I’m looking to collaborate on **Business Solutions with Machine Learning Tools**
 
